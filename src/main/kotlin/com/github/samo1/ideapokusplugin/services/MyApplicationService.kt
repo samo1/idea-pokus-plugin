@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.samo1.ideapokusplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.samo1.ideapokusplugin.MyBundle
 
 class MyApplicationService {
 
